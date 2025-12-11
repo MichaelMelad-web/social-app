@@ -16,6 +16,8 @@ import PostDetails from "./pages/PostDetails/PostDetails";
 
 import { Offline, Online } from "react-detect-offline";
 import { addToast, Button } from "@heroui/react";
+
+
 export default function App() {
   const router = createBrowserRouter([
     {
